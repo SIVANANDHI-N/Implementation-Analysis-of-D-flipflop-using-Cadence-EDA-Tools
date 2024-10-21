@@ -32,6 +32,9 @@ i)	Procedure for Creating New Library.
 •	Name: Give name for ur library Ex: VLSILAB_EXP_1
 •	Enable Attach to an existing technology library, Click OK
 •	Attach the library to the technology library gpdk045.Click OK
+![image](https://github.com/user-attachments/assets/819fc299-b753-4154-9b45-f13a370cb55c)
+
+
 ii)	Create Schematic Cell view.
 •	Go to 1st window i.e virtuoso (CIW)
 •	File-New-Cell view
@@ -66,7 +69,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
-![IMG-20241019-WA0009](https://github.com/user-attachments/assets/9bef70c1-ffa3-4680-ac29-d4c5e03d792e)
+![image](https://github.com/user-attachments/assets/84729816-5b74-4e86-af49-20b13a89630b)
+
 
 
 iv)	Creating the new test cell view
@@ -79,7 +83,8 @@ iv)	Creating the new test cell view
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
 
-![IMG-20241019-WA0011](https://github.com/user-attachments/assets/a6e192b4-bc9d-44a0-9007-ab48f2f1acc4)
+![image](https://github.com/user-attachments/assets/b18cb763-017e-4175-a034-dd7f40fa0262)
+
 
 
  
@@ -100,6 +105,8 @@ Analog simulation by SPECTRE.
 For Transient Analysis Settings and Output
  
  ![IMG-20241019-WA0013](https://github.com/user-attachments/assets/92433262-d11d-460f-899b-5c3d1e661266)
+
+ output:
 
  ![IMG-20241019-WA0014](https://github.com/user-attachments/assets/eef27219-4166-4c49-8662-ee7e0ddb6894)
 
